@@ -14,7 +14,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/parthiv11/Date-Drama
+git clone https://github.com/parthiv11/dating-drama
 ```
 
 2. Navigate to the server directory:
