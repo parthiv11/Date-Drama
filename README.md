@@ -21,7 +21,7 @@ cd server
 3. Edit the environment variables by adding the MongoDB URI in the `.env` file:
 
 ```
-MONGODB_URI=<your-mongodb-uri>
+URI=<your-mongodb-uri>
 ```
 
 4. Install server dependencies:
@@ -39,7 +39,7 @@ npm run start:backend
 6. Open another terminal window/tab and navigate to the client directory:
 
 ```bash
-cd ../client
+cd client
 ```
 
 7. Install client dependencies:
