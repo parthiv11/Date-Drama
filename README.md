@@ -2,6 +2,11 @@
 
 Welcome to the MERN Stack Dating Web App! This project is aimed at providing a comprehensive platform for users to connect and interact with potential matches. It utilizes the MERN stack - MongoDB, Express.js, React.js, and Node.js - to build a robust and scalable web application. 
 
+## Screenshots
+![image](https://github.com/parthiv11/dating-drama/assets/75653580/06818b4b-a6e0-4fe3-9a9c-cf5cf5346032)
+![image](https://github.com/parthiv11/dating-drama/assets/75653580/db3a3575-8ec3-4bb3-94ca-d9aac3207d22)
+
+
 ## Getting Started
 
 To get started with the project, follow these steps:
